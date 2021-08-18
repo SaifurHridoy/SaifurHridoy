@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaifurHridoy
-- 👀 I’m interested in Digital Marketing
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on Facebook Marketing Insights, Facebook Business Research and A/b testing.
-- 📫 Reach me with fiverr.com/saifurs_aid_bd or directly through +8801731953007
+- 👀 I’m interested in Java, Django, Bootstrap, R, My Sql
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on R-Programming.
+- 📫 Reach me with Gihub.
 
 <!---
 SaifurHridoy/SaifurHridoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
